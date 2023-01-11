@@ -382,6 +382,7 @@ header p {
 .timeline {
   position: relative;
   font-weight: bold;
+  margin-bottom: 52px;
 }
 
 /* Draws line */
